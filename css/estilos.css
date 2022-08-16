@@ -1,0 +1,43 @@
+body {
+   padding: 20px;
+   font-family: Tahoma, sans-serif;
+   text-align: center;
+   background-size: 100%;
+   background-attachment: fixed;
+}
+
+header {
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+#tiempoRestante {
+   padding: 10px;
+   border: 10px double white;
+   border-radius: 15px;
+}
+
+h1, h3 {
+   font-weight: bold;
+}
+
+h1 {
+   color: white;
+}
+
+h2 {
+   color: #FBF583;
+}
+
+h3 {
+   color: #F5A872;
+}
+
+section {
+   padding: 5px;
+}
+
+article {
+   background-color: #994F06;
+   padding: 5px;
+   border-radius: 15px;
+}
